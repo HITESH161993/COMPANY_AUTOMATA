@@ -1,0 +1,2 @@
+# COMPANY_AUTOMATA
+asd
